@@ -1,3 +1,2 @@
 # Ez_Rock_Paper_Scissor
-Rock Paper Scissor game
-It is a easy version of rock, paper, scissor game. Enjoy!
+It is a easy version of rock, paper, scissor game in R language. Enjoy!
